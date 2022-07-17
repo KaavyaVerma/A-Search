@@ -7,7 +7,7 @@
 
 --Another aspect that makes A* so powerful is the use of weighted graphs in its implementation. A weighted graph uses numbers to represent the cost of taking each path or course of action. This means that the algorithms can take the path with the least cost, and find the best route in terms of distance and time.
 
-**VISUALIZER**
+#VISUALIZER
 
 
 
