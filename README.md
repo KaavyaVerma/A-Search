@@ -9,9 +9,15 @@
 
 **Program Execution**
 --Click anywhere in the grid to set the source position it will turn in orange colour.
+
 --Click for the second time to choose the destination position anywhere in the grid it will turn in turquoise colour.
+
 --Now click for the barriers where you want to put it will turn black.
+
 --After setting the source, destination and the barriers hit the space button to see the magic of the algorithm.
+
 --The algorithm stops working after getting the shortest path to reach destination from the source.
+
 --The shortest path will be in purple colour.
+
 --Press 'c' (without single quotes) to restart the algorithm.
