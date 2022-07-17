@@ -6,6 +6,8 @@
 --It searches for shorter paths first, thus making it an optimal and complete algorithm. An optimal algorithm will find the least cost outcome for a problem, while a complete algorithm finds all the possible outcomes of a problem.
 
 --Another aspect that makes A* so powerful is the use of weighted graphs in its implementation. A weighted graph uses numbers to represent the cost of taking each path or course of action. This means that the algorithms can take the path with the least cost, and find the best route in terms of distance and time.
+**VISUALIZER**
+![A Star Search](https://user-images.githubusercontent.com/90963546/179398214-170bd6a2-cc35-4540-a574-75a52414ad0a.gif)
 
 **Program Execution**
 --Click anywhere in the grid to set the source position it will turn in orange colour.
@@ -21,3 +23,4 @@
 --The shortest path will be in purple colour.
 
 --Press 'c' (without single quotes) to restart the algorithm.
+
